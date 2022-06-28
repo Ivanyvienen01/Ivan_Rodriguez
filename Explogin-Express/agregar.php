@@ -21,7 +21,7 @@
 
         <div class="">
             <img src="img/logo.png" alt="" class="logo">
-            <h1 class="title-welcome">Agregar Producto</h1>
+            <h1 class="title-welcome">Agregar Mercancia</h1>
             
             <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
 
